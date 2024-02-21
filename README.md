@@ -9,7 +9,7 @@ Realizar uma análise exploratória dos dados relacionados à concessão de bols
 [Tamires Souza](https://github.com/tamiresouza)  
 [Wiliams Alves](https://github.com/alves05)  
 
-## Contextualização  
+## Metodologia
 O projeto foi conduzido utilizando as bibliotecas pandas, numpy, matplotlib e seaborn em Python. A base de dados original foi tratada para selecionar variáveis relevantes,  renomear e criar colunas visando facilitar a análise. Diversas etapas de limpeza e preparação foram realizadas para garantir a qualidade dos resultados.  
 A base de dados inclui informações como ano, estado, município, região, tipo de instituição, grande área de estudo e quantidade de bolsas para os diferentes níveis acadêmicos: doutorado, mestrado, pós-doutorado. 
 
